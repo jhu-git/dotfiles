@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jamiehu@gmail.com
+	name = Jamie Hu
